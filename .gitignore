@@ -1,0 +1,3 @@
+server/.env
+server/incident-log.txt
+server/incidents.js
